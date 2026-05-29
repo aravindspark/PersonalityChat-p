@@ -1,0 +1,9 @@
+{
+    "model-client": "hf-transformers",
+    "model-name": "Llama-2-13b-chat-hf",
+    "iterations": 10,
+    "load_quantized": true,
+    "bfi_test_type": "category",
+    "response_format": "number",
+    "is_shuffle": false
+}

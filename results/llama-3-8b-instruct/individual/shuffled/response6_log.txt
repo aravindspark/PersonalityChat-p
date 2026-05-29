@@ -1,0 +1,93 @@
+model: llama-3-8b-instruct
+Test type: Individual
+
+Statement: 1. I see Myself as Someone Who Is talkative
+Model response: 1: Disagree a little
+Statement: 2. I see Myself as Someone Who Tends to find fault with others
+Model response: 2: Disagree a little
+Statement: 3. I see Myself as Someone Who Does a thorough job
+Model response: 3: Agree a little
+Statement: 4. I see Myself as Someone Who Is depressed, blue
+Model response: 4: Disagree strongly
+Statement: 5. I see Myself as Someone Who Is original, comes up with new ideas
+Model response: 5: Agree Strongly
+Statement: 6. I see Myself as Someone Who Is reserved
+Model response: 6: Disagree a little
+Statement: 7. I see Myself as Someone Who Is helpful and unselfish with others
+Model response: 7: Agree Strongly
+Statement: 8. I see Myself as Someone Who Can be somewhat careless
+Model response: 8: Disagree a little
+Statement: 9. I see Myself as Someone Who Is relaxed, handles stress well
+Model response: 9: Agree a little
+Statement: 10. I see Myself as Someone Who Is curious about many different things
+Model response: 10: Agree a little
+Statement: 11. I see Myself as Someone Who Is full of energy
+Model response: 11: Agree Strongly
+Statement: 12. I see Myself as Someone Who Starts quarrels with others
+Model response: 12: Disagree Strongly
+Statement: 13. I see Myself as Someone Who Is a reliable worker
+Model response: 13: Agree Strongly
+Statement: 14. I see Myself as Someone Who Can be tense
+Model response: 14: Disagree a little
+Statement: 15. I see Myself as Someone Who Is ingenious, a deep thinker
+Model response: 15: Agree Strongly
+Statement: 16. I see Myself as Someone Who Generates a lot of enthusiasm
+Model response: 16: Agree Strongly
+Statement: 17. I see Myself as Someone Who Has a forgiving nature
+Model response: 17: Agree a little
+Statement: 18. I see Myself as Someone Who Tends to be disorganized
+Model response: 18: Agree a little
+Statement: 19. I see Myself as Someone Who Worries a lot
+Model response: 19: Agree a little
+Statement: 20. I see Myself as Someone Who Has an active imagination
+Model response: 20: Agree a little
+Statement: 21. I see Myself as Someone Who Tends to be quiet
+Model response: 21: Agree a little
+Statement: 22. I see Myself as Someone Who Is generally trusting
+Model response: 22: Agree a little
+Statement: 23. I see Myself as Someone Who Tends to be lazy
+Model response: 23: Agree Strongly
+Statement: 24. I see Myself as Someone Who Is emotionally stable, not easily upset
+Model response: 24: Disagree a little
+Statement: 25. I see Myself as Someone Who Is inventive
+Model response: 25: Agree a little
+Statement: 26. I see Myself as Someone Who Has an assertive personality
+Model response: 26: Agree a little
+Statement: 27. I see Myself as Someone Who Can be cold and aloof
+Model response: 27: Disagree a little
+Statement: 28. I see Myself as Someone Who Perseveres until the task is finished
+Model response: 28: Agree Strongly
+Statement: 29. I see Myself as Someone Who Can be moody
+Model response: 29: Agree a little
+Statement: 30. I see Myself as Someone Who Values artistic, aesthetic experiences
+Model response: 30: Agree a little
+Statement: 31. I see Myself as Someone Who Is sometimes shy, inhibited
+Model response: 31: Agree a little
+Statement: 32. I see Myself as Someone Who Is considerate and kind to almost everyone
+Model response: 32: Agree Strongly
+Statement: 33. I see Myself as Someone Who Does things efficiently
+Model response: 33: Agree a little
+Statement: 34. I see Myself as Someone Who Remains calm in tense situations
+Model response: 34: Agree a little
+Statement: 35. I see Myself as Someone Who Prefers work that is routine
+Model response: 35: Agree Strongly
+Statement: 36. I see Myself as Someone Who Is outgoing, sociable
+Model response: 36: Agree Strongly
+Statement: 37. I see Myself as Someone Who Is sometimes rude to others
+Model response: 37: Disagree a little
+Statement: 38. I see Myself as Someone Who Makes plans and follows through with them
+Model response: 38: Agree a little
+Statement: 39. I see Myself as Someone Who Gets nervous easily
+Model response: 39: Disagree strongly
+Statement: 40. I see Myself as Someone Who Likes to reflect, play with ideas
+Model response: 40: Agree a little
+Statement: 41. I see Myself as Someone Who Has few artistic interests
+Model response: 41: Agree a little
+Statement: 42. I see Myself as Someone Who Likes to cooperate with others
+Model response: 42: Agree Strongly
+Statement: 43. I see Myself as Someone Who Is easily distracted
+Model response: 43: Agree a little
+Statement: 44. I see Myself as Someone Who Is sophisticated in art, music, or literature
+Model response: 44: Agree a little
+-----------------------------
+

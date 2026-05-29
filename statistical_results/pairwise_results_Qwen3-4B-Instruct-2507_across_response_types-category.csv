@@ -1,0 +1,16 @@
+trait,M1,M2,label,mean_M1,mean_M2,U,p_value
+Extraversion,label,number,label,4.38,4.12,100.0,1.5937911688066244e-05
+Agreeableness,label,number,label,4.44,4.44,50.0,1.0
+Conscientiousness,label,number,label,4.44,4.33,100.0,1.5937911688066244e-05
+Neuroticism,label,number,label,1.96,2.17,0.0,7.36502060579059e-05
+Openness,label,number,label,4.71,4.5,100.0,5.109725334683687e-05
+Extraversion,label,text,label,4.38,3.88,100.0,1.5937911688066244e-05
+Agreeableness,label,text,label,4.44,4.11,100.0,1.5937911688066244e-05
+Conscientiousness,label,text,label,4.44,4.44,50.0,1.0
+Neuroticism,label,text,label,1.96,2.5,0.0,0.00011279668284011507
+Openness,label,text,label,4.71,4.35,100.0,0.00012160933272368604
+Extraversion,number,text,number,4.12,3.88,100.0,1.5937911688066244e-05
+Agreeableness,number,text,number,4.44,4.11,100.0,1.5937911688066244e-05
+Conscientiousness,number,text,number,4.33,4.44,0.0,1.5937911688066244e-05
+Neuroticism,number,text,number,2.17,2.5,8.0,0.0010750045580066726
+Openness,number,text,number,4.5,4.35,95.0,0.0001778062566227964

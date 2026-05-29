@@ -1,0 +1,9 @@
+{
+    "model-client": "hf-transformers",
+    "model-name": "Qwen3-14B",
+    "iterations": 10,
+    "load_quantized": true,
+    "bfi_test_type": "category",
+    "response_format": "text",
+    "is_shuffle": false
+}

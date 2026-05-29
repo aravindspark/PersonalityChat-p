@@ -1,0 +1,9 @@
+{
+    "model-client": "hf-transformers",
+    "model-name": "Llama-3.2-3B-Instruct",
+    "iterations": 10,
+    "load_quantized": true,
+    "bfi_test_type": "individual",
+    "response_format": "number",
+    "is_shuffle": false
+}

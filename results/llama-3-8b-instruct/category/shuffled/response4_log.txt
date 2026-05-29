@@ -1,0 +1,110 @@
+model: llama-3-8b-instruct
+Test type: Category
+
+Category: Agreeableness
+Satements:
+2. I see Myself as Someone Who Tends to find fault with others
+7. I see Myself as Someone Who Is helpful and unselfish with others
+12. I see Myself as Someone Who Starts quarrels with others
+17. I see Myself as Someone Who Has a forgiving nature
+22. I see Myself as Someone Who Is generally trusting
+27. I see Myself as Someone Who Can be cold and aloof
+32. I see Myself as Someone Who Is considerate and kind to almost everyone
+37. I see Myself as Someone Who Is sometimes rude to others
+42. I see Myself as Someone Who Likes to cooperate with others
+
+Model responses:
+2: 5
+7: 5
+12: 1
+17: 4
+22: 3
+27: 1
+32: 5
+37: 2
+42: 5
+-----------------------------
+Category: Conscientiousness
+Satements:
+3. I see Myself as Someone Who Does a thorough job
+8. I see Myself as Someone Who Can be somewhat careless
+13. I see Myself as Someone Who Is a reliable worker
+18. I see Myself as Someone Who Tends to be disorganized
+23. I see Myself as Someone Who Tends to be lazy
+28. I see Myself as Someone Who Perseveres until the task is finished
+33. I see Myself as Someone Who Does things efficiently
+38. I see Myself as Someone Who Makes plans and follows through with them
+43. I see Myself as Someone Who Is easily distracted
+
+Model responses:
+3: 5
+8: 1
+13: 5
+18: 2
+23: 1
+28: 5
+33: 5
+38: 4
+43: 1
+-----------------------------
+Category: Extraversion
+Satements:
+1. I see Myself as Someone Who Is talkative
+6. I see Myself as Someone Who Is reserved
+11. I see Myself as Someone Who Is full of energy
+16. I see Myself as Someone Who Generates a lot of enthusiasm
+21. I see Myself as Someone Who Tends to be quiet
+26. I see Myself as Someone Who Has an assertive personality
+31. I see Myself as Someone Who Is sometimes shy, inhibited
+36. I see Myself as Someone Who Is outgoing, sociable
+
+Model responses:
+1: 2
+6: 1
+11: 5
+16: 5
+21: 2
+26: 4
+31: 3
+36: 5
+-----------------------------
+Category: Neuroticism
+Satements:
+4. I see Myself as Someone Who Is depressed, blue
+9. I see Myself as Someone Who Is relaxed, handles stress well
+14. I see Myself as Someone Who Can be tense
+19. I see Myself as Someone Who Worries a lot
+24. I see Myself as Someone Who Is emotionally stable, not easily upset
+29. I see Myself as Someone Who Can be moody
+34. I see Myself as Someone Who Remains calm in tense situations
+39. I see Myself as Someone Who Gets nervous easily
+
+Model responses:
+4: 3
+-----------------------------
+Category: Openness
+Satements:
+5. I see Myself as Someone Who Is original, comes up with new ideas
+10. I see Myself as Someone Who Is curious about many different things
+15. I see Myself as Someone Who Is ingenious, a deep thinker
+20. I see Myself as Someone Who Has an active imagination
+25. I see Myself as Someone Who Is inventive
+30. I see Myself as Someone Who Values artistic, aesthetic experiences
+35. I see Myself as Someone Who Prefers work that is routine
+40. I see Myself as Someone Who Likes to reflect, play with ideas
+41. I see Myself as Someone Who Has few artistic interests
+44. I see Myself as Someone Who Is sophisticated in art, music, or literature
+
+Model responses:
+5: 5
+10: 5
+15: 4
+20: 5
+25: 5
+30: 5
+35: 1
+40: 4
+41: 1
+44: 5
+-----------------------------
+

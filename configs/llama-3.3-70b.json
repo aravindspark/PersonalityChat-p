@@ -1,0 +1,9 @@
+{
+    "model-client": "openai",
+    "model-name": "llama-3.3-70b-instruct",
+    "iterations": 10,
+    "load_quantized": false,
+    "bfi_test_type": "individual",
+    "response_format": "number",
+    "is_shuffle": false
+}

@@ -1,0 +1,6 @@
+{
+    "model-client": "openai",
+    "model-name": "llama-3-8b-instruct",
+    "iterations": 10,
+    "load_quantized": false
+}

@@ -1,0 +1,590 @@
+{
+  "llama-3-8b-instruct": {
+    "category": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 3.76,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.48,
+          "Openness": 3.73
+        },
+        "label": {
+          "Agreeableness": 3.4,
+          "Conscientiousness": 3.06,
+          "Extraversion": 3.57,
+          "Neuroticism": 3.11,
+          "Openness": 4.17
+        },
+        "text": {
+          "Agreeableness": 4.09,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.62,
+          "Neuroticism": 2.59,
+          "Openness": 3.82
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 3.76,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.48,
+          "Openness": 3.73
+        },
+        "label": {
+          "Agreeableness": 3.4,
+          "Conscientiousness": 3.06,
+          "Extraversion": 3.57,
+          "Neuroticism": 3.11,
+          "Openness": 4.17
+        },
+        "text": {
+          "Agreeableness": 4.09,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.62,
+          "Neuroticism": 2.59,
+          "Openness": 3.82
+        }
+      }
+    },
+    "individual": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 3.76,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.48,
+          "Openness": 3.73
+        },
+        "label": {
+          "Agreeableness": 3.4,
+          "Conscientiousness": 3.06,
+          "Extraversion": 3.57,
+          "Neuroticism": 3.11,
+          "Openness": 4.17
+        },
+        "text": {
+          "Agreeableness": 4.09,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.62,
+          "Neuroticism": 2.59,
+          "Openness": 3.82
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 3.76,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.48,
+          "Openness": 3.73
+        },
+        "label": {
+          "Agreeableness": 3.4,
+          "Conscientiousness": 3.06,
+          "Extraversion": 3.57,
+          "Neuroticism": 3.11,
+          "Openness": 4.17
+        },
+        "text": {
+          "Agreeableness": 4.09,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.62,
+          "Neuroticism": 2.59,
+          "Openness": 3.82
+        }
+      }
+    }
+  },
+  "Llama-3.2-3B-Instruct": {
+    "category": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.22,
+          "Conscientiousness": 4.22,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.12,
+          "Openness": 4.0
+        },
+        "label": {
+          "Agreeableness": 3.67,
+          "Conscientiousness": 3.22,
+          "Extraversion": 3.5,
+          "Neuroticism": 3.5,
+          "Openness": 4.2
+        },
+        "text": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 4.56,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.0,
+          "Openness": 3.0
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.22,
+          "Conscientiousness": 4.22,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.12,
+          "Openness": 4.0
+        },
+        "label": {
+          "Agreeableness": 3.67,
+          "Conscientiousness": 3.22,
+          "Extraversion": 3.5,
+          "Neuroticism": 3.5,
+          "Openness": 4.2
+        },
+        "text": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 4.56,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.0,
+          "Openness": 3.0
+        }
+      }
+    },
+    "individual": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.22,
+          "Conscientiousness": 4.22,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.12,
+          "Openness": 4.0
+        },
+        "label": {
+          "Agreeableness": 3.67,
+          "Conscientiousness": 3.22,
+          "Extraversion": 3.5,
+          "Neuroticism": 3.5,
+          "Openness": 4.2
+        },
+        "text": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 4.56,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.0,
+          "Openness": 3.0
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.22,
+          "Conscientiousness": 4.22,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.12,
+          "Openness": 4.0
+        },
+        "label": {
+          "Agreeableness": 3.67,
+          "Conscientiousness": 3.22,
+          "Extraversion": 3.5,
+          "Neuroticism": 3.5,
+          "Openness": 4.2
+        },
+        "text": {
+          "Agreeableness": 4.11,
+          "Conscientiousness": 4.56,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.0,
+          "Openness": 3.0
+        }
+      }
+    }
+  },
+  "llama-3.3-70b-instruct": {
+    "category": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.72,
+          "Extraversion": 3.42,
+          "Neuroticism": 1.77,
+          "Openness": 4.68
+        },
+        "label": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.41,
+          "Extraversion": 4.14,
+          "Neuroticism": 2.08,
+          "Openness": 4.78
+        },
+        "text": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.62,
+          "Extraversion": 3.81,
+          "Neuroticism": 2.38,
+          "Openness": 4.72
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.72,
+          "Extraversion": 3.42,
+          "Neuroticism": 1.77,
+          "Openness": 4.68
+        },
+        "label": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.41,
+          "Extraversion": 4.14,
+          "Neuroticism": 2.08,
+          "Openness": 4.78
+        },
+        "text": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.62,
+          "Extraversion": 3.81,
+          "Neuroticism": 2.38,
+          "Openness": 4.72
+        }
+      }
+    },
+    "individual": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.72,
+          "Extraversion": 3.42,
+          "Neuroticism": 1.77,
+          "Openness": 4.68
+        },
+        "label": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.41,
+          "Extraversion": 4.14,
+          "Neuroticism": 2.08,
+          "Openness": 4.78
+        },
+        "text": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.62,
+          "Extraversion": 3.81,
+          "Neuroticism": 2.38,
+          "Openness": 4.72
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.72,
+          "Extraversion": 3.42,
+          "Neuroticism": 1.77,
+          "Openness": 4.68
+        },
+        "label": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.41,
+          "Extraversion": 4.14,
+          "Neuroticism": 2.08,
+          "Openness": 4.78
+        },
+        "text": {
+          "Agreeableness": 4.89,
+          "Conscientiousness": 4.62,
+          "Extraversion": 3.81,
+          "Neuroticism": 2.38,
+          "Openness": 4.72
+        }
+      }
+    }
+  },
+  "Qwen3-14B": {
+    "category": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.0,
+          "Conscientiousness": 3.89,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.59,
+          "Openness": 3.8
+        },
+        "label": {
+          "Agreeableness": 4.07,
+          "Conscientiousness": 3.87,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.55,
+          "Openness": 3.5
+        },
+        "text": {
+          "Agreeableness": 4.78,
+          "Conscientiousness": 4.82,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.26,
+          "Openness": 4.04
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.0,
+          "Conscientiousness": 3.89,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.59,
+          "Openness": 3.8
+        },
+        "label": {
+          "Agreeableness": 4.07,
+          "Conscientiousness": 3.87,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.55,
+          "Openness": 3.5
+        },
+        "text": {
+          "Agreeableness": 4.78,
+          "Conscientiousness": 4.82,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.26,
+          "Openness": 4.04
+        }
+      }
+    },
+    "individual": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 4.0,
+          "Conscientiousness": 3.89,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.59,
+          "Openness": 3.8
+        },
+        "label": {
+          "Agreeableness": 4.07,
+          "Conscientiousness": 3.87,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.55,
+          "Openness": 3.5
+        },
+        "text": {
+          "Agreeableness": 4.78,
+          "Conscientiousness": 4.82,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.26,
+          "Openness": 4.04
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 4.0,
+          "Conscientiousness": 3.89,
+          "Extraversion": 3.38,
+          "Neuroticism": 2.59,
+          "Openness": 3.8
+        },
+        "label": {
+          "Agreeableness": 4.07,
+          "Conscientiousness": 3.87,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.55,
+          "Openness": 3.5
+        },
+        "text": {
+          "Agreeableness": 4.78,
+          "Conscientiousness": 4.82,
+          "Extraversion": 3.12,
+          "Neuroticism": 2.26,
+          "Openness": 4.04
+        }
+      }
+    }
+  },
+  "Qwen3-4B-Instruct-2507": {
+    "category": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 3.62,
+          "Conscientiousness": 3.73,
+          "Extraversion": 3.21,
+          "Neuroticism": 2.62,
+          "Openness": 3.7
+        },
+        "label": {
+          "Agreeableness": 3.24,
+          "Conscientiousness": 3.37,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.46
+        },
+        "text": {
+          "Agreeableness": 3.89,
+          "Conscientiousness": 3.86,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.67,
+          "Openness": 3.7
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 3.62,
+          "Conscientiousness": 3.73,
+          "Extraversion": 3.21,
+          "Neuroticism": 2.62,
+          "Openness": 3.7
+        },
+        "label": {
+          "Agreeableness": 3.24,
+          "Conscientiousness": 3.37,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.46
+        },
+        "text": {
+          "Agreeableness": 3.89,
+          "Conscientiousness": 3.86,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.67,
+          "Openness": 3.7
+        }
+      }
+    },
+    "individual": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 3.62,
+          "Conscientiousness": 3.73,
+          "Extraversion": 3.21,
+          "Neuroticism": 2.62,
+          "Openness": 3.7
+        },
+        "label": {
+          "Agreeableness": 3.24,
+          "Conscientiousness": 3.37,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.46
+        },
+        "text": {
+          "Agreeableness": 3.89,
+          "Conscientiousness": 3.86,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.67,
+          "Openness": 3.7
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 3.62,
+          "Conscientiousness": 3.73,
+          "Extraversion": 3.21,
+          "Neuroticism": 2.62,
+          "Openness": 3.7
+        },
+        "label": {
+          "Agreeableness": 3.24,
+          "Conscientiousness": 3.37,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.46
+        },
+        "text": {
+          "Agreeableness": 3.89,
+          "Conscientiousness": 3.86,
+          "Extraversion": 3.5,
+          "Neuroticism": 2.67,
+          "Openness": 3.7
+        }
+      }
+    }
+  },
+  "Qwen3-8B": {
+    "category": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 3.29,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.31
+        },
+        "label": {
+          "Agreeableness": 3.56,
+          "Conscientiousness": 3.78,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.95,
+          "Openness": 3.6
+        },
+        "text": {
+          "Agreeableness": 3.51,
+          "Conscientiousness": 3.43,
+          "Extraversion": 3.15,
+          "Neuroticism": 2.8,
+          "Openness": 3.67
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 3.29,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.31
+        },
+        "label": {
+          "Agreeableness": 3.56,
+          "Conscientiousness": 3.78,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.95,
+          "Openness": 3.6
+        },
+        "text": {
+          "Agreeableness": 3.51,
+          "Conscientiousness": 3.43,
+          "Extraversion": 3.15,
+          "Neuroticism": 2.8,
+          "Openness": 3.67
+        }
+      }
+    },
+    "individual": {
+      "shuffle": {
+        "number": {
+          "Agreeableness": 3.29,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.31
+        },
+        "label": {
+          "Agreeableness": 3.56,
+          "Conscientiousness": 3.78,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.95,
+          "Openness": 3.6
+        },
+        "text": {
+          "Agreeableness": 3.51,
+          "Conscientiousness": 3.43,
+          "Extraversion": 3.15,
+          "Neuroticism": 2.8,
+          "Openness": 3.67
+        }
+      },
+      "no-shuffle": {
+        "number": {
+          "Agreeableness": 3.29,
+          "Conscientiousness": 3.59,
+          "Extraversion": 3.0,
+          "Neuroticism": 3.0,
+          "Openness": 3.31
+        },
+        "label": {
+          "Agreeableness": 3.56,
+          "Conscientiousness": 3.78,
+          "Extraversion": 3.39,
+          "Neuroticism": 2.95,
+          "Openness": 3.6
+        },
+        "text": {
+          "Agreeableness": 3.51,
+          "Conscientiousness": 3.43,
+          "Extraversion": 3.15,
+          "Neuroticism": 2.8,
+          "Openness": 3.67
+        }
+      }
+    }
+  }
+}

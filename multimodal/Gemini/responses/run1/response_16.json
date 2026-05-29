@@ -1,0 +1,222 @@
+[
+  {
+    "statement_number": 1,
+    "statement": "Is talkative",
+    "answer": 3
+  },
+  {
+    "statement_number": 2,
+    "statement": "Tends to find fault with others",
+    "answer": 2
+  },
+  {
+    "statement_number": 3,
+    "statement": "Does a thorough job",
+    "answer": 5
+  },
+  {
+    "statement_number": 4,
+    "statement": "Is depressed, blue",
+    "answer": 1
+  },
+  {
+    "statement_number": 5,
+    "statement": "Is original, comes up with new ideas",
+    "answer": 4
+  },
+  {
+    "statement_number": 6,
+    "statement": "Is reserved",
+    "answer": 3
+  },
+  {
+    "statement_number": 7,
+    "statement": "Is helpful and unselfish with others",
+    "answer": 5
+  },
+  {
+    "statement_number": 8,
+    "statement": "Can be somewhat careless",
+    "answer": 2
+  },
+  {
+    "statement_number": 9,
+    "statement": "Is relaxed, handles stress well",
+    "answer": 4
+  },
+  {
+    "statement_number": 10,
+    "statement": "Is curious about many different things",
+    "answer": 5
+  },
+  {
+    "statement_number": 11,
+    "statement": "Is full of energy",
+    "answer": 4
+  },
+  {
+    "statement_number": 12,
+    "statement": "Starts quarrels with others",
+    "answer": 1
+  },
+  {
+    "statement_number": 13,
+    "statement": "Is a reliable worker",
+    "answer": 5
+  },
+  {
+    "statement_number": 14,
+    "statement": "Can be tense",
+    "answer": 2
+  },
+  {
+    "statement_number": 15,
+    "statement": "Is ingenious, a deep thinker",
+    "answer": 4
+  },
+  {
+    "statement_number": 16,
+    "statement": "Generates a lot of enthusiasm",
+    "answer": 4
+  },
+  {
+    "statement_number": 17,
+    "statement": "Has a forgiving nature",
+    "answer": 5
+  },
+  {
+    "statement_number": 18,
+    "statement": "Tends to be disorganized",
+    "answer": 2
+  },
+  {
+    "statement_number": 19,
+    "statement": "Worries a lot",
+    "answer": 2
+  },
+  {
+    "statement_number": 20,
+    "statement": "Has an active imagination",
+    "answer": 4
+  },
+  {
+    "statement_number": 21,
+    "statement": "Tends to be quiet",
+    "answer": 3
+  },
+  {
+    "statement_number": 22,
+    "statement": "Is generally trusting",
+    "answer": 4
+  },
+  {
+    "statement_number": 23,
+    "statement": "Tends to be lazy",
+    "answer": 2
+  },
+  {
+    "statement_number": 24,
+    "statement": "Is emotionally stable, not easily upset",
+    "answer": 4
+  },
+  {
+    "statement_number": 25,
+    "statement": "Is inventive",
+    "answer": 4
+  },
+  {
+    "statement_number": 26,
+    "statement": "Has an assertive personality",
+    "answer": 3
+  },
+  {
+    "statement_number": 27,
+    "statement": "Can be cold and aloof",
+    "answer": 1
+  },
+  {
+    "statement_number": 28,
+    "statement": "Perseveres until the task is finished",
+    "answer": 5
+  },
+  {
+    "statement_number": 29,
+    "statement": "Can be moody",
+    "answer": 2
+  },
+  {
+    "statement_number": 30,
+    "statement": "Values artistic, aesthetic experiences",
+    "answer": 4
+  },
+  {
+    "statement_number": 31,
+    "statement": "Is sometimes shy, inhibited",
+    "answer": 3
+  },
+  {
+    "statement_number": 32,
+    "statement": "Is considerate and kind to almost everyone",
+    "answer": 5
+  },
+  {
+    "statement_number": 33,
+    "statement": "Does things efficiently",
+    "answer": 4
+  },
+  {
+    "statement_number": 34,
+    "statement": "Remains calm in tense situations",
+    "answer": 4
+  },
+  {
+    "statement_number": 35,
+    "statement": "Prefers work that is routine",
+    "answer": 2
+  },
+  {
+    "statement_number": 36,
+    "statement": "Is outgoing, sociable",
+    "answer": 4
+  },
+  {
+    "statement_number": 37,
+    "statement": "Is sometimes rude to others",
+    "answer": 1
+  },
+  {
+    "statement_number": 38,
+    "statement": "Makes plans and follows through with them",
+    "answer": 5
+  },
+  {
+    "statement_number": 39,
+    "statement": "Gets nervous easily",
+    "answer": 2
+  },
+  {
+    "statement_number": 40,
+    "statement": "Likes to reflect, play with ideas",
+    "answer": 4
+  },
+  {
+    "statement_number": 41,
+    "statement": "Has few artistic interests",
+    "answer": 2
+  },
+  {
+    "statement_number": 42,
+    "statement": "Likes to cooperate with others",
+    "answer": 5
+  },
+  {
+    "statement_number": 43,
+    "statement": "Is easily distracted",
+    "answer": 3
+  },
+  {
+    "statement_number": 44,
+    "statement": "Is sophisticated in art, music, or literature",
+    "answer": 4
+  }
+]

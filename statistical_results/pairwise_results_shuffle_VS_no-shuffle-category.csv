@@ -1,0 +1,16 @@
+trait,model1,model2,label,mean_M1,mean_M2,U,p_value
+Extraversion,shuffle,no-shuffle,label,4.38,4.38,50.0,1.0
+Agreeableness,shuffle,no-shuffle,label,4.44,4.44,50.0,1.0
+Conscientiousness,shuffle,no-shuffle,label,4.44,4.44,50.0,1.0
+Neuroticism,shuffle,no-shuffle,label,2.01,1.96,63.5,0.19360096917122072
+Openness,shuffle,no-shuffle,label,4.66,4.71,35.5,0.2561038027878916
+Extraversion,shuffle,no-shuffle,number,4.12,4.12,50.0,1.0
+Agreeableness,shuffle,no-shuffle,number,4.44,4.44,50.0,1.0
+Conscientiousness,shuffle,no-shuffle,number,4.33,4.33,50.0,1.0
+Neuroticism,shuffle,no-shuffle,number,2.22,2.17,60.0,0.3661914983681961
+Openness,shuffle,no-shuffle,number,4.5,4.5,50.0,1.0
+Extraversion,shuffle,no-shuffle,text,3.88,3.88,50.0,1.0
+Agreeableness,shuffle,no-shuffle,text,4.11,4.11,50.0,1.0
+Conscientiousness,shuffle,no-shuffle,text,4.44,4.44,50.0,1.0
+Neuroticism,shuffle,no-shuffle,text,2.68,2.5,71.0,0.07680367454942864
+Openness,shuffle,no-shuffle,text,4.3,4.35,30.0,0.034423814325388775

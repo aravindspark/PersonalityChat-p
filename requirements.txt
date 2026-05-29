@@ -1,0 +1,7 @@
+huggingface_hub==0.34.4
+matplotlib==3.10.5
+numpy==2.3.2
+openai==1.99.9
+pandas==2.3.1
+torch==2.8.0
+transformers==4.55.0

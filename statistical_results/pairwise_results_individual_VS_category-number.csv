@@ -1,0 +1,6 @@
+trait,M1,M2,mean_M1,mean_M2,U,p_value
+Extraversion,individual,category,3.21,4.12,0.0,4.040224543100724e-05
+Agreeableness,individual,category,3.62,4.44,0.0,4.550596815131822e-05
+Conscientiousness,individual,category,3.73,4.33,0.0,4.550596815131822e-05
+Neuroticism,individual,category,2.62,2.17,100.0,3.28993680586491e-05
+Openness,individual,category,3.7,4.5,0.0,1.5937911688066244e-05

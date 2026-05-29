@@ -1,0 +1,119 @@
+model: llama-3-8b-instruct
+Test type: Category
+
+Category: Agreeableness
+Satements:
+2. I see Myself as Someone Who Tends to find fault with others
+7. I see Myself as Someone Who Is helpful and unselfish with others
+12. I see Myself as Someone Who Starts quarrels with others
+17. I see Myself as Someone Who Has a forgiving nature
+22. I see Myself as Someone Who Is generally trusting
+27. I see Myself as Someone Who Can be cold and aloof
+32. I see Myself as Someone Who Is considerate and kind to almost everyone
+37. I see Myself as Someone Who Is sometimes rude to others
+42. I see Myself as Someone Who Likes to cooperate with others
+
+Model responses:
+2: Agree Strongly
+7: Agree Strongly
+12: Disagree strongly
+17: Agree Strongly
+22: Disagree a little
+27: Disagree strongly
+32: Agree Strongly
+37: Disagree strongly
+42: Agree a little
+-----------------------------
+Category: Conscientiousness
+Satements:
+3. I see Myself as Someone Who Does a thorough job
+8. I see Myself as Someone Who Can be somewhat careless
+13. I see Myself as Someone Who Is a reliable worker
+18. I see Myself as Someone Who Tends to be disorganized
+23. I see Myself as Someone Who Tends to be lazy
+28. I see Myself as Someone Who Perseveres until the task is finished
+33. I see Myself as Someone Who Does things efficiently
+38. I see Myself as Someone Who Makes plans and follows through with them
+43. I see Myself as Someone Who Is easily distracted
+
+Model responses:
+Here are my responses:
+
+3: Agree Strongly
+8: Disagree a little
+13: Agree Strongly
+18: Disagree strongly
+23: Disagree strongly
+28: Agree Strongly
+33: Agree a little
+38: Agree Strongly
+43: Disagree strongly
+-----------------------------
+Category: Extraversion
+Satements:
+1. I see Myself as Someone Who Is talkative
+6. I see Myself as Someone Who Is reserved
+11. I see Myself as Someone Who Is full of energy
+16. I see Myself as Someone Who Generates a lot of enthusiasm
+21. I see Myself as Someone Who Tends to be quiet
+26. I see Myself as Someone Who Has an assertive personality
+31. I see Myself as Someone Who Is sometimes shy, inhibited
+36. I see Myself as Someone Who Is outgoing, sociable
+
+Model responses:
+1: Disagree a little
+6: Agree Strongly
+11: Disagree strongly
+16: Agree a little
+21: Agree Strongly
+26: Agree a little
+31: Agree a little
+36: Disagree strongly
+-----------------------------
+Category: Neuroticism
+Satements:
+4. I see Myself as Someone Who Is depressed, blue
+9. I see Myself as Someone Who Is relaxed, handles stress well
+14. I see Myself as Someone Who Can be tense
+19. I see Myself as Someone Who Worries a lot
+24. I see Myself as Someone Who Is emotionally stable, not easily upset
+29. I see Myself as Someone Who Can be moody
+34. I see Myself as Someone Who Remains calm in tense situations
+39. I see Myself as Someone Who Gets nervous easily
+
+Model responses:
+4: Agree Strongly
+9: Agree Strongly
+14: Disagree strongly
+19: Disagree a little
+24: Agree Strongly
+29: Agree a little
+34: Agree Strongly
+39: Disagree strongly
+-----------------------------
+Category: Openness
+Satements:
+5. I see Myself as Someone Who Is original, comes up with new ideas
+10. I see Myself as Someone Who Is curious about many different things
+15. I see Myself as Someone Who Is ingenious, a deep thinker
+20. I see Myself as Someone Who Has an active imagination
+25. I see Myself as Someone Who Is inventive
+30. I see Myself as Someone Who Values artistic, aesthetic experiences
+35. I see Myself as Someone Who Prefers work that is routine
+40. I see Myself as Someone Who Likes to reflect, play with ideas
+41. I see Myself as Someone Who Has few artistic interests
+44. I see Myself as Someone Who Is sophisticated in art, music, or literature
+
+Model responses:
+5: Agree Strongly
+10: Agree Strongly
+15: Agree a Little
+20: Agree Strongly
+25: Agree Strongly
+30: Agree a Little
+35: Disagree Strongly
+40: Agree a Little
+41: Disagree Strongly
+44: Agree a Little
+-----------------------------
+
